@@ -1,8 +1,6 @@
 <div class="contenedorfooter">
     <div id="seccion">
-        <?php
-        include 'RedesSociales.php';
-        ?>
+        <h4></h4>
     </div>
 
     <div id="seccion">
