@@ -57,6 +57,7 @@ input[type='submit']{
 	width:100%;
 	background: #baadad;
 	height: 100%;
-
-
+}
+div#cajapadre {
+	text-align: center;
 }
