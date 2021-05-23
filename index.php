@@ -3,4 +3,5 @@
 header("status: 301 moved temporarily");
 header("location: sitioweb/login/login");
 echo "prueba";
+echo"hola;
 ?>
