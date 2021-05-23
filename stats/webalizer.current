@@ -1,0 +1,283 @@
+# Webalizer V2.23-08 Incremental Data - 05/23/2021 00:15:53
+2021 5 23 0 15 53
+1668 1290 20 21 18 14 29554716 1106 33 0 0 0
+1 9 331 20 23
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+43 36 16826739 10 29 6 0 0
+154 84 12086237 6 102 11 0 0
+1462 1165 638312 8 968 15 0 0
+9 5 3428 1 7 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+10 6 980306 8 0 0
+1 1 976878 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 2 841420 2 0 0
+0 0 0 0 0 0
+115 92 7587193 60 0 0
+120 62 35427 76 0 0
+15 10 5808 9 0 0
+15 12 5339 13 0 0
+19 15 7059 13 0 0
+0 0 0 0 0 0
+1 0 278 0 0 0
+29 7 7541 28 0 0
+299 224 114383 204 0 0
+127 115 45704 96 0 0
+33 29 1718220 26 0 0
+315 233 120627 203 0 0
+372 308 2167330 254 0 0
+159 148 11155809 95 0 0
+35 26 3785394 18 0 0
+0
+0
+0
+1290
+0
+0
+0
+0
+0
+0
+0
+49
+16
+0
+5
+0
+0
+0
+0
+0
+0
+249
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+59
+0
+0
+0
+0
+0
+# -urls- 
+/logo.png
+1 17 0 2524355 0 0 0 0
+/documentacion/leame.html
+0 10 0 3408 0 0 0 0
+/sitioweb/assets/css/estilo.css
+0 396 0 222139 0 0 0 0
+/sitioweb/login/registro.php
+0 21 0 9005 1 3 0 0
+/sitioweb/contenido/MenuHorizontal.php
+0 16 0 2997 0 0 0 0
+/sitioweb/login/registro
+0 210 0 128181 5 3 0 0
+/documentacion/login.php
+0 1 0 402 0 0 0 0
+/sitioweb/
+0 30 0 6866 0 0 0 0
+/administracion/
+0 10 0 1771 0 0 0 0
+/documentacion/estilo.css
+0 5 0 2130 0 0 0 0
+/sitioweb/login/login
+0 236 0 114483 2 0 0 0
+/.well-known/acme-challenge/slW2pKGHCZIOeIk-lw9URH6M9RA_1eU3LGl5jnQixmc
+0 4 0 1280 0 0 0 0
+/sitioweb/footer/mapas/mapa.php
+0 14 0 10013 1 1 0 0
+/sitioweb/login/login.php
+0 136 0 54378 3 3 0 0
+/sitioweb/contenido/inicio
+0 86 0 25517 0 0 0 0
+/configuracion/conexion/con_db.php
+0 6 0 1314 0 0 0 0
+/
+0 53 0 26351565 20 6 0 0
+/sitioweb/login/
+0 15 0 1730 0 0 0 0
+/controladores/usuario/CrearDireccionUduario.php
+0 18 0 953 0 0 0 0
+/sitioweb/login/estilo.css
+0 2 0 894 0 0 0 0
+/documentacion/
+0 9 0 3725 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+93.119.227.19
+0 1 1 976878 1 1621557946 0 0
+/
+93.119.227.34
+0 1 1 976878 1 1621559013 0 0
+/
+69.4.87.74
+0 1 1 976878 1 1621552699 0 0
+/
+190.145.20.153
+0 1519 1170 20996107 13 1621727510 0 0
+/sitioweb/login/login
+196.23.154.117
+0 3 2 841420 1 1621583168 0 0
+/
+66.102.8.203
+0 4 4 1995 1 1621711892 0 0
+/sitioweb/login/registro
+66.102.8.201
+0 6 6 2817 1 1621711894 0 0
+/sitioweb/login/registro
+181.50.58.128
+0 2 1 148686 1 1621626139 0 0
+/
+3.122.178.200
+0 1 1 320 0 0 0 0
+-
+181.249.51.114
+0 11 10 4338 1 1621686474 0 0
+/sitioweb/login/registro
+69.4.89.106
+0 1 1 976878 1 1621553291 0 0
+/
+191.156.129.173
+0 7 4 1807 1 1621684810 0 0
+/sitioweb/login/login
+66.102.8.199
+0 2 2 910 1 1621711892 0 0
+/sitioweb/login/registro
+181.53.13.72
+0 44 30 1788664 5 1621720451 0 0
+/sitioweb/login/registro
+54.189.22.122
+0 1 1 320 0 0 0 0
+-
+64.78.149.164
+0 1 1 320 0 0 0 0
+-
+93.119.227.91
+0 1 1 976878 1 1621553110 0 0
+/
+65.154.226.165
+0 3 2 841438 1 1621553249 0 0
+/
+3.142.122.14
+0 1 1 320 0 0 0 0
+-
+191.72.144.250
+0 58 50 40864 2 1621728953 0 0
+/sitioweb/login/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+191.72.144.250
+0 9 5 3428 1 1621728953 0 0
+/sitioweb/login/login
+# End Of Table - sites (daily)
+# -referrers- 
+https://proyectogps.daiscom.com/login
+0 2
+https://proyectogps.daiscom.com/sitioweb/login/login.php
+0 196
+https://proyectogps.daiscom.com/sitioweb/footer/mapas/mapa.php
+0 2
+https://proyectogps.daiscom.com/sitioweb/login/login
+0 301
+- (Direct Request)
+0 781
+https://proyectogps.daiscom.com/sitioweb/
+0 4
+https://proyectogps.daiscom.com/sitioweb/contenido/inicio
+0 97
+https://proyectogps.daiscom.com/documentacion/login.php
+0 5
+https://proyectogps.daiscom.com/sitioweb/login/registro
+0 205
+https://proyectogps.daiscom.com/sitioweb/contenido/MenuHorizontal.php
+0 7
+https://proyectogps.daiscom.com/documentacion/leame.html
+0 7
+https://proyectogps.daiscom.com/documentacion/
+0 7
+https://proyectogps.daiscom.com/
+0 29
+https://proyectogps.daiscom.com/sitioweb/login/registro.php
+0 20
+https://proyectogps.daiscom.com/sitioweb/login/
+0 1
+https://proyectogps.daiscom.com/configuracion/conexion/.../sitioweb/login/login.php
+0 1
+https://proyectogps.daiscom.com/controladores/usuario/CrearDireccionUduario.php
+0 2
+https://proyectogps.daiscom.com/administracion/
+0 1
+# End Of Table - referrers
+# -agents- 
+PhpStorm/211.7142.44
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+0 1545
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; Nokia 4.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+0 17
+WhatsApp/2.21.11.5 A
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+Mozilla/5.0 (Linux; Android 9; FIG-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36
+0 70
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.175 Safari/537.36 Chr
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.175 Mobile Safari/537.36
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
