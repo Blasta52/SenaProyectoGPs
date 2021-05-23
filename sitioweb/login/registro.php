@@ -28,7 +28,7 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
             <option selected>No definido </option>
         </select>
     	<input type="text" name="name" placeholder="Nombre completo">
-        <input type="text" name="apellidos" placeholder="Apellidos">
+        <input type="text" name="lastname" placeholder="Apellidos">
 
         <select id="caja_seleccion" name="Tipo identificacion">
             <option>Cedula de ciudadania</option>
@@ -41,7 +41,7 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
         <input type="text" name="Cedula" placeholder="Cedula">
     	<input type="email" name="email" placeholder="Correo Electronico">
         <input type="text" name="contrasena" placeholder="contraseña">
-    	<input type="submit" name="Regitrar" title="Crear Cuenta">
+    	<input type="submit" name="registrar" title="Crear Cuenta">
     </form>
 
 </body>
