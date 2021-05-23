@@ -6,4 +6,4 @@ $idCountry="";
 $idCity="";
 $direccion="";
 $telephone="";
-$celular="";
+$mobile="";
