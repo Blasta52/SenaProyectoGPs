@@ -1,6 +1,6 @@
 <div class="contenedorfooter">
     <div id="seccion">
-        <h4>area para agregar a la primer seccion</h4>
+        <h4>area para agregar la primer seccion</h4>
     </div>
 
     <div id="seccion">
