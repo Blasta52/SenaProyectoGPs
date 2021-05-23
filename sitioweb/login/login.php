@@ -14,8 +14,8 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
 <body>
     <form method="post">
     	<h2>Iniciar Sesion!</h2>
-    	<input type="text" name="name" placeholder="Nombre completo">
-    	<input type="email" name="email" placeholder="Email">
+    	<input type="email" name="email" placeholder="Correo">
+    	<input type="password" name="pass" placeholder="Contraseña">
         <a id="crearcuenta" href="./registro">Crear Cuenta!</a>
     	<input type="submit" name="iniciar">
     </form>
