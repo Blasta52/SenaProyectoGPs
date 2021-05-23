@@ -14,17 +14,19 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
 <body>
     <form method="post">
     	<h2>Iniciar Sesion!</h2>
-
-    	<input align="ceneter" type="email" name="email" placeholder="Correo">
-    	<input align="center" type="password" name="pass" placeholder="Contraseña">
-        <a id="crearcuenta" href="./registro">Crear Cuenta!</a>
-    	<input type="submit" name="iniciar>
+        <div align="center">
+    	<input  type="email" name="email" placeholder="Correo">
+        </div>
+        <div align="center">
+    	<input  type="password" name="pass" placeholder="Contraseña">
+        </div>
+       	<input type="submit" name="iniciar>
         <div id="cajapadre">
             <div id="caja">
-                <a id="crearcuenta" href="./registro">Crear Cuenta!</a>
+                <a id="crearcuenta" href="./registro">Crear Cuenta</a>
             </div>
             <div id="caja">
-                <a id="recuperarcuenta" href="./registro">Olvide contraseña!</a>
+                <a id="recuperarcuenta" href="./registro">Olvide contraseña</a>
             </div>
        </div>
 
