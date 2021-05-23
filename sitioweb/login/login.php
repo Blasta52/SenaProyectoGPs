@@ -16,9 +16,19 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
     	<h2>Iniciar Sesion!</h2>
     	<input type="email" name="email" placeholder="Correo">
     	<input type="password" name="pass" placeholder="Contraseña">
-        <a id="crearcuenta" href="./registro">Crear Cuenta!</a>
-    	<input type="submit" name="iniciar">
-        <input type="submit" href="recuperar" "Olvide contraseña">
+        <input type="submit" name="iniciar">
+        <div id="cajapadre">
+            <div id="caja">
+                <a id="crearcuenta" href="./registro">Crear Cuenta!</a>
+            </div>
+            <div id="caja">
+                <a id="recuperarcuenta" href="./registro">Olvide contraseña!</a>
+            </div>
+       </div>
+
+
+
+
     </form>
 
 </body>
