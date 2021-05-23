@@ -18,6 +18,7 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
     	<input type="password" name="pass" placeholder="Contraseña">
         <a id="crearcuenta" href="./registro">Crear Cuenta!</a>
     	<input type="submit" name="iniciar">
+        <input type="submit" href="recuperar" "Olvide contraseña">
     </form>
 
 </body>
