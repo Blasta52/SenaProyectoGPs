@@ -32,5 +32,5 @@ while ($registros=mysqli_fetch_array($conslista)) {
         echo "<td>$registros[apellido]</td>";
         echo "<td>$registros[cedula]</td>";
     echo "<td>$registros[email]</td>";
-	echo "</tr>";
+    echo "</tr>";
 }
