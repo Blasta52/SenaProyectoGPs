@@ -9,10 +9,10 @@ $contra="fupais12345";//pon aqui tu contraseña
 $db="dbproyectogps";
 
 $con=mysqli_connect("$host","$usuario","$contra","$db");
-if(!$con){
-    die("fallo la conexion".mysqli_error());
-}else{
-    echo ("Genial la conexion fue exitosa");//mysqli_select_db($db) or die ("fallo la conexion a la base de datos".mysql_error());
-}
-
-?>
+//if(!$con){
+//    die("fallo la conexion".mysqli_error());
+//}else{
+//    echo ("Genial la conexion fue exitosa");//mysqli_select_db($db) or die ("fallo la conexion a la base de datos".mysql_error());
+//}
+//
+//?>

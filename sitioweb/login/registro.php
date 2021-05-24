@@ -38,10 +38,13 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
         </select>
 
 
-        <input type="text" name="Cedula" placeholder="Cedula">
+        <input type="text" name="cedula" placeholder="Cedula">
     	<input type="email" name="email" placeholder="Correo Electronico">
         <input type="text" name="contrasena" placeholder="contraseña">
-    	<input type="submit" name="registrar" title="Crear Cuenta">
+    	<input type="submit" name="registrar" title="Crear Cuenta"><a ></a>
+        <?php
+        include '../../controladores/usuario/CrearNuevoUsuario.php';
+        ?>
     </form>
 
 </body>

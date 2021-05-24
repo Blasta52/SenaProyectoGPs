@@ -15,20 +15,25 @@ if (isset($_POST['registrar'])) {
     if (strlen($_POST['name']) >= 1 && strlen($_POST['email']) >= 1) {
         $name = trim($_POST['name']);
         $lastname = trim($_POST['lastname']);
+        $cedula = trim($_POST['cedula']);
         $email = trim($_POST['email']);
-        $fechareg = date("d/m/y");
-        $consulta="INSERT INTO cliente(nombre,apellido,cedula) VALUES ('miguel','rodriguez','582546354')";
-        $resultado=mysqli_query($con,$consulta);
+        $password = trim($_POST['contrasena']);
+
+        $consulta = "INSERT INTO cliente(nombre,apellido,cedula,email,password) VALUES ('$name','$lastname','$cedula','$email','$password')";
+        $resultado = mysqli_query($con, $consulta);
         if ($resultado) {
 
             echo "<h3 class='ok'>¡Te has inscripto correctamente!.$resultado</h3>";
 
-         } else {
+        } else {
 
             echo "Error: " . $consulta . "<br>" . mysqli_error($con);
 
-
-      }
+        }
+    }else{
+        echo "<h3 class=''>complete los datos</h3>";
+    }
+}
 // else {
 //
 //            echo "<h3 class='bad'>¡Por favor complete los campos!</h3>";
