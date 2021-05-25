@@ -13,7 +13,7 @@ include  '../../sitioweb/head/head.php';
 <html>
 <body>
     <form method="post">
-    	<h2>Iniciar Sesion!</h2>
+    	<h2>!Iniciar Sesion!</h2>
         <div align="center">
     	<input  type="email" name="email" placeholder="Correo">
         </div>
