@@ -95,7 +95,7 @@ select#caja_seleccion {
 }
 .contenedorfooter {
 	background: whitesmoke;
-	height: 234px;
+	height: 500px;
 	margin-top: 34px;
 	position: fixed;
 	z-index: 1;
