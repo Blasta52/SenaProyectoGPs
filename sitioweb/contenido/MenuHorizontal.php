@@ -1,4 +1,3 @@
-<link rel='stylesheet' type='text/css' href='../assets/css/estilo.css'>
 <div id="contenedor_menu">
     <ul id="menu">
         <ul><a href="../login/login">Iniciar Sesion</a></ul>
