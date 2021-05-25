@@ -11,6 +11,7 @@
     <div id="seccion">
         <?php
         include 'RedesSociales.php';
+        echo ("hola juan miguel");
         ?>
     </div>
 
