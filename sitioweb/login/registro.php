@@ -30,7 +30,7 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
     	<input type="text" name="name" placeholder="Nombre completo">
         <input type="text" name="lastname" placeholder="Apellidos">
 
-        <select id="caja_seleccion" name="Tipo identificacion">
+        <select id="caja_seleccion" name="tipodocumento">
             <option>Cedula de ciudadania</option>
             <option>Cedula de ciudadania</option>
             <option>Pasaporte</option>
