@@ -5,7 +5,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 $tituloPagina="Iniciar Sesion";
 include  '../../sitioweb/head/head.php';
-include '../../sitioweb/contenido/MenuHorizontal.php';
+//include '../../sitioweb/contenido/MenuHorizontal.php';
 ?>
 
 
@@ -27,6 +27,7 @@ include '../../sitioweb/contenido/MenuHorizontal.php';
             </div>
             <div id="caja">
                 <a id="recuperarcuenta" href="./registro">Olvide contraseña</a>
+                <h1>hola esto es una prueba</h1>
             </div>
        </div>
 
