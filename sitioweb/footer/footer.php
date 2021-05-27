@@ -14,7 +14,5 @@
         echo ("hola juan miguel");
         ?>
     </div>
-
-
 </div>
 

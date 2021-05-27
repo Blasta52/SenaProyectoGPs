@@ -26,6 +26,7 @@ CREATE TABLE `direcciones` (
                                `codpostal` int NOT NULL,
                                `celular` char(10) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
                                `telefonofijo` char(15) NOT NULL,
+
                                PRIMARY KEY (`id_direcciones`),
                                KEY `id_clientes` (`id_clientes`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3

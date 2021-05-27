@@ -5,5 +5,5 @@ $telephone="";
 $idCustomer="";
 $firsName="";
 $lastName="";
-
+$telefono="";
 ?>
