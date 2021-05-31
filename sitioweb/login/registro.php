@@ -1,11 +1,10 @@
-<!--archivo que muestra el formulario de inicio de sesion del cliente-->
+  <!--archivo que muestra el formulario de inicio de sesion del cliente-->
 <?php
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 $tituloPagina = "Crear Cuenta";
-include  '../../sitioweb/head/head.php';
-include '../../sitioweb/contenido/MenuHorizontal.php';
+include '../../sitioweb/head/header.php';
 
 ?>
 

@@ -1,2 +1,2 @@
 <?php
-include '../../sitioweb/contenido/MenuHorizontal.php';
+include '../../sitioweb/head/header.php';
